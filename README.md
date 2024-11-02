@@ -65,10 +65,10 @@ lem-in/
 ├── exampleXX.txt            # Example input files for different cases
 └── go.mod                   # Go module file
 ```
-6. ## Author
+6. **Author**
 This project was created in May 2024 by Elif Ep.
 
-7. ## Contributing
+7. **Contributing**
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 1. **Fork the Repository**: Click on the "Fork" button at the top right of this page to create a copy of this repository under your own GitHub account.
@@ -77,21 +77,18 @@ Contributions are welcome! If you'd like to contribute to this project, please f
    ```bash
    git clone https://github.com/elifep/lem-in.git
    cd lem-in
-Create a New Branch:
-
-bash
-Kodu kopyala
+3. **Create a New Branch:**
+ ```bash
 git checkout -b feature-or-bugfix-name
 Make Changes: Develop your feature or fix the bug, and make sure your code is clean and tested.
 
-Commit Changes:
+4.**Commit Changes:**
 
-bash
-Kodu kopyala
+ ```bash
 git commit -m "Description of your changes"
-Push to Your Forked Repository:
 
-bash
-Kodu kopyala
+5.**Push to Your Forked Repository:**
+
+ ```bash
 git push origin feature-or-bugfix-name
-Create a Pull Request: Go to the original repository and open a pull request with a detailed description of your changes.
+6.**Create a Pull Request:** Go to the original repository and open a pull request with a detailed description of your changes.
