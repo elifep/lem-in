@@ -81,8 +81,9 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 3. **Create a New Branch:**
  ```bash
 git checkout -b feature-or-bugfix-name
-Make Changes: Develop your feature or fix the bug, and make sure your code is clean and tested.
 ```
+Make Changes: Develop your feature or fix the bug, and make sure your code is clean and tested.
+
 4.**Commit Changes:**
 
  ```bash
