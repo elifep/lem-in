@@ -65,10 +65,10 @@ lem-in/
 ├── exampleXX.txt            # Example input files for different cases
 └── go.mod                   # Go module file
 ```
-6. ## Author
+## Author
 This project was created in May 2024 by Elif Ep.
 
-7. ## Contributing
+## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 1. **Fork the Repository**: Click on the "Fork" button at the top right of this page to create a copy of this repository under your own GitHub account.
