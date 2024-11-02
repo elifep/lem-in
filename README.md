@@ -64,7 +64,7 @@ lem-in/
 ├── README.md                # Project documentation
 ├── exampleXX.txt            # Example input files for different cases
 └── go.mod                   # Go module file
-
+```
 6. ## Author
 This project was created in May 2024 by Elif Ep.
 
