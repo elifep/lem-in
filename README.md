@@ -77,19 +77,21 @@ Contributions are welcome! If you'd like to contribute to this project, please f
    ```bash
    git clone https://github.com/elifep/lem-in.git
    cd lem-in
-   
-   Create a New Branch:
-   ```bash
-   git checkout -b feature-or-bugfix-name
+Create a New Branch:
 
-   Make Changes: Develop your feature or fix the bug, and make sure your code is clean and tested.
+bash
+Kodu kopyala
+git checkout -b feature-or-bugfix-name
+Make Changes: Develop your feature or fix the bug, and make sure your code is clean and tested.
 
-   Commit Changes:
-   ```bash
-   git commit -m "Description of your changes"
+Commit Changes:
 
-   Push to Your Forked Repository:
-   ```bash
-   git push origin feature-or-bugfix-name
-   
-   Create a Pull Request: Go to the original repository and open a pull request with a detailed description of your changes.
+bash
+Kodu kopyala
+git commit -m "Description of your changes"
+Push to Your Forked Repository:
+
+bash
+Kodu kopyala
+git push origin feature-or-bugfix-name
+Create a Pull Request: Go to the original repository and open a pull request with a detailed description of your changes.
