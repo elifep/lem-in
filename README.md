@@ -36,6 +36,7 @@ The algorithm follows these steps:
 Here’s an example of how the output may look based on different files:
 
 **EXAMPLE03**
+```text
 go run . example03.txt
 
 All paths from 0 to 5 :
@@ -53,7 +54,7 @@ L3-5 L4-4
 L4-5
 
 Execution time: 0.00020972 seconds
-
+```
 4. **Testing with 01 Edu Cases**
 For testing with predefined cases from 01 Edu, visit [this link](https://github.com/01-edu/public/tree/master/subjects/lem-in/audit). Download the test cases and run them using the command above.
 
