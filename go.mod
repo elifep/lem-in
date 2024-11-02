@@ -1,3 +1,3 @@
-module lem-in
+module deneme
 
 go 1.18
