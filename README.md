@@ -58,7 +58,7 @@ Execution time: 0.00020972 seconds
 For testing with predefined cases from 01 Edu, visit [this link](https://github.com/01-edu/public/tree/master/subjects/lem-in/audit). Download the test cases and run them using the command above.
 
 5. **Project Structure**
-
+```text
 lem-in/
 ├── main.go                  # Main Go file to run the simulation
 ├── README.md                # Project documentation
@@ -79,16 +79,16 @@ Contributions are welcome! If you'd like to contribute to this project, please f
    cd lem-in
    
 Create a New Branch:
-
+```bash
 git checkout -b feature-or-bugfix-name
 Make Changes: Develop your feature or fix the bug, and make sure your code is clean and tested.
 
 Commit Changes:
-
+```bash
 git commit -m "Description of your changes"
 
 Push to Your Forked Repository:
-
+```bash
 git push origin feature-or-bugfix-name
 
 Create a Pull Request: Go to the original repository and open a pull request with a detailed description of your changes.
