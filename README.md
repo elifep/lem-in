@@ -30,9 +30,11 @@ The algorithm follows these steps:
    git clone https://github.com/elifep/lem-in.git
    cd lem-in
 2. **Run the Simulation:** Run the simulation using the following command, replacing [filename.txt] with the name of your input file:
+3. 
 go run . filename.txt
-3. **Example Outputs**
+4. **Example Outputs**
 Here’s an example of how the output may look based on different files:
+
 **EXAMPLE03**
 go run . example03.txt
 
@@ -62,3 +64,31 @@ lem-in/
 ├── README.md                # Project documentation
 ├── exampleXX.txt            # Example input files for different cases
 └── go.mod                   # Go module file
+
+6. ## Author
+This project was created in May 2024 by Elif Ep.
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+1. **Fork the Repository**: Click on the "Fork" button at the top right of this page to create a copy of this repository under your own GitHub account.
+
+2. **Clone the Forked Repository**:
+   ```bash
+   git clone https://github.com/elifep/lem-in.git
+   cd lem-in
+   
+Create a New Branch:
+
+git checkout -b feature-or-bugfix-name
+Make Changes: Develop your feature or fix the bug, and make sure your code is clean and tested.
+
+Commit Changes:
+
+git commit -m "Description of your changes"
+
+Push to Your Forked Repository:
+
+git push origin feature-or-bugfix-name
+
+Create a Pull Request: Go to the original repository and open a pull request with a detailed description of your changes.
